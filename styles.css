@@ -36,7 +36,7 @@ header h1 {
     margin-bottom: 20px;
 }
 
-.photo img {
+.photo img {<img src="img/glizzybeans.jpg" alt="Your Name">
     border-radius: 50%;
     width: 150px;
     height: 150px;

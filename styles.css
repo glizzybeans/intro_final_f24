@@ -36,7 +36,7 @@ header h1 {
     margin-bottom: 20px;
 }
 
-.photo img {
+.photo img {<img src="img/glizzybeans: .jpg;" alt="McKenzi Peace">
     border-radius: 50%;
     width: 150px;
     height: 150px;
@@ -63,7 +63,7 @@ header h1 {
 }
 
 .link-btn {
-    background-color: #007bff;
+    background-color: #229954;;
     color: white;
     text-decoration: none;
     padding: 10px 20px;

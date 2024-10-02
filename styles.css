@@ -36,7 +36,11 @@ header h1 {
     margin-bottom: 20px;
 }
 
+<<<<<<< HEAD
 .photo img {<img src="img/glizzybeans: .jpg;" alt="McKenzi Peace">
+=======
+.photo img {<img src="img/glizzybeans.png" alt="Your Name">
+>>>>>>> e89e4e70099d86eb54b238f28375eca75cf87016
     border-radius: 50%;
     width: 150px;
     height: 150px;
@@ -63,7 +67,11 @@ header h1 {
 }
 
 .link-btn {
+<<<<<<< HEAD
     background-color: #229954;;
+=======
+    background-color: #229954;
+>>>>>>> e89e4e70099d86eb54b238f28375eca75cf87016
     color: white;
     text-decoration: none;
     padding: 10px 20px;

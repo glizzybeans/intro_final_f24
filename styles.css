@@ -63,7 +63,11 @@ header h1 {
 }
 
 .link-btn {
+<<<<<<< HEAD
+    background-color: #229954;;
+=======
     background-color: #229954;
+>>>>>>> e89e4e70099d86eb54b238f28375eca75cf87016
     color: white;
     text-decoration: none;
     padding: 10px 20px;
